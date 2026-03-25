@@ -81,7 +81,7 @@ export default function LandingPage() {
       ]}
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRtOVjHFVwGvNIDVQiYIOn7jKo/a-sleek-floating-glassmorphism-card-on-a-1774463784314-13e72139.png"
       imageAlt="Glassmorphism card with email input and 'Join Waitlist' button"
-      mediaAnimation="entrance-slide"
+      mediaAnimation="slide-up"
     />
   </div>
 
@@ -95,7 +95,7 @@ export default function LandingPage() {
       icon={Award}
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BRtOVjHFVwGvNIDVQiYIOn7jKo/diverse-college-students-collaborating-o-1774463786355-d00fa2ee.png"
       imageAlt="College students collaborating on AI projects in a minimalist setting"
-      mediaAnimation="entrance-slide"
+      mediaAnimation="slide-up"
     />
   </div>
 
